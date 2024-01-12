@@ -1,4 +1,4 @@
-# OpenGL-Examples
+# OpenGL-IMU and Some Sensor Data Visulation
 
 TODO: OpenGL Hataları var bunları Düzelt 
 
